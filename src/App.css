@@ -1,0 +1,40 @@
+body
+{background-image: linear-gradient(to right, rgb(188, 44, 188), rgb(144, 80, 147), rgb(65, 55, 65));}
+
+.active-class{
+  color: red;
+font-size: 40px;
+}
+
+
+.not-active-class{
+  color: rgb(163, 122, 163);
+  font-size: 37px;
+}
+
+#tabledata{
+  background-color: wheat;
+  gap: 5px;
+  position: absolute;
+  left: 400px;
+  top: 100px;
+width: 50%;
+font-size: 24px;
+
+}
+
+nav{
+  height: 30px;
+position: relative;
+left: 550px;
+}
+
+.linktoadd{
+  font-size: 18px;
+  padding: 5px;
+  position: absolute;
+  right: 30px;
+  background-color: yellow;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-radius: 12px;
+}
